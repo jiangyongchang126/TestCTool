@@ -1,0 +1,6 @@
+framework module CTool {
+  umbrella header "CTool-umbrella.h"
+
+  export *
+  module * { export * }
+}
