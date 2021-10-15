@@ -7,8 +7,8 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'CTool'
-  s.version          = '0.1.0'
+  s.name             = 'JYCCTool'
+  s.version          = '0.0.1'
   s.summary          = 'A short description of CTool.'
 
 # This description is used to generate tags and improve search results.
